@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="P | Cine Sony HD" tvg-logo="http://l3d.us:8080/images/7876649281362293c0dd7bf66d51c8b2.png" group-title="TV | Peliculas",P | Cine Sony HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/197327
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal" tvg-logo="http://l3d.us:8080/images/94f711b4753864794b3162831ecb3f0d.png" group-title="TV | Peliculas",P | Cinecanal
+http://l3d.us:8080/Kerly/QdBaKywVnc/10844
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal FHD" tvg-logo="http://l3d.us:8080/images/94f711b4753864794b3162831ecb3f0d.png" group-title="TV | Peliculas",P | Cinecanal FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154085
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="P | Cinecanal HD" tvg-logo="http://l3d.us:8080/images/94f711b4753864794b3162831ecb3f0d.png" group-title="TV | Peliculas",P | Cinecanal HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10845
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax FHD" tvg-logo="http://l3d.us:8080/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="TV | Peliculas",P | Cinemax FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154086
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax HD" tvg-logo="http://l3d.us:8080/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="TV | Peliculas",P | Cinemax HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10847
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="P | FXM FHD" tvg-logo="http://l3d.us:8080/images/23771a91d28437a26f1d7fca723e3ab1.png" group-title="TV | Peliculas",P | FXM FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154107
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="P | FXM HD" tvg-logo="http://l3d.us:8080/images/23771a91d28437a26f1d7fca723e3ab1.png" group-title="TV | Peliculas",P | FXM HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154108
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge HQ" tvg-logo="http://l3d.us:8080/images/c6692a79892a9010d2f4a8cb7b9fc7a3.png" group-title="TV | Peliculas",P | Golden Edge HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/154111
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="P | Golden Plus FHD" tvg-logo="http://l3d.us:8080/images/cb63fd1cc09c28cc59c798787c66e567.png" group-title="TV | Peliculas",P | Golden Plus FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154112
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="P | Golden Plus HQ" tvg-logo="http://l3d.us:8080/images/cb63fd1cc09c28cc59c798787c66e567.png" group-title="TV | Peliculas",P | Golden Plus HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/10862
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier FHD" tvg-logo="http://l3d.us:8080/images/a1109e67e460c2f4ac44638b6713dac7.png" group-title="TV | Peliculas",P | Golden Premier FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/200946
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier HD" tvg-logo="http://l3d.us:8080/images/a1109e67e460c2f4ac44638b6713dac7.png" group-title="TV | Peliculas",P | Golden Premier HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/200947
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="P | Golden. HQ" tvg-logo="http://l3d.us:8080/images/c773fdef3889bdadbe809f1e8aaeea46.png" group-title="TV | Peliculas",P | Golden. HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/154110
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO + FHD" tvg-logo="http://l3d.us:8080/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="TV | Peliculas",P | HBO + FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154115
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO + HD" tvg-logo="http://l3d.us:8080/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="TV | Peliculas",P | HBO + HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10880
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2 FHD" tvg-logo="http://l3d.us:8080/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="TV | Peliculas",P | HBO 2 FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/155165
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2 HD" tvg-logo="http://l3d.us:8080/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="TV | Peliculas",P | HBO 2 HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10883
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P | HBO Family FHD" tvg-logo="http://l3d.us:8080/images/23b3b40dc8ae3565d2002145640f748d.png" group-title="TV | Peliculas",P | HBO Family FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/155166
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P | HBO Family HD" tvg-logo="http://l3d.us:8080/images/23b3b40dc8ae3565d2002145640f748d.png" group-title="TV | Peliculas",P | HBO Family HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10878
+#EXTINF:-1 tvg-id="" tvg-name="P | HBO Xtreme HD" tvg-logo="http://l3d.us:8080/images/227c5a7767e2742104de1c193474174b.png" group-title="TV | Peliculas",P | HBO Xtreme HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/157156
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO. FHD" tvg-logo="http://l3d.us:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="TV | Peliculas",P | HBO. FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154113
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO. HD" tvg-logo="http://l3d.us:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="TV | Peliculas",P | HBO. HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10885
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel HQ" tvg-logo="http://l3d.us:8080/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="TV | Peliculas",P | Paramount Channel HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/10867
+#EXTINF:-1 tvg-id="space.co" tvg-name="P | Space |  CO " tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Peliculas",P | Space |  CO 
+http://l3d.us:8080/Kerly/QdBaKywVnc/193852
+#EXTINF:-1 tvg-id="space.co" tvg-name="P | Space |  CO | HD" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Peliculas",P | Space |  CO | HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/193851
+#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space | MX | FHD" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Peliculas",P | Space | MX | FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/155173
+#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space | MX | HD" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Peliculas",P | Space | MX | HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10871
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Studio Universal FHD" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Peliculas",P | Studio Universal FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/155174
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Studio Universal HQ" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Peliculas",P | Studio Universal HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/10873
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="P | SYFY FHD" tvg-logo="http://l3d.us:8080/images/14831b3a087423067dd5af937a12204b.png" group-title="TV | Peliculas",P | SYFY FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/155175
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="P | SYFY HQ" tvg-logo="http://l3d.us:8080/images/14831b3a087423067dd5af937a12204b.png" group-title="TV | Peliculas",P | SYFY HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/10869
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="P | TCM HQ" tvg-logo="http://l3d.us:8080/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="TV | Peliculas",P | TCM HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/187786
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT FHD" tvg-logo="http://l3d.us:8080/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="TV | Peliculas",P | TNT FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/155177
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT HD" tvg-logo="http://l3d.us:8080/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="TV | Peliculas",P | TNT HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/155176
+
+
